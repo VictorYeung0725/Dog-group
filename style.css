@@ -26,6 +26,25 @@
 /*  above are the testing version  */
 
 
+/* Victor part */
+.item-name-v{
+  grid-area: 3/1/4/3;
+}
+
+.item-pic-y{
+  grid-area: 3/3/4/7;
+}
+
+.item-info-y{
+  grid-area:3/7/4/11;
+
+}
+
+.item-animation-y{
+  grid-area: 3/11/4/13;
+}
+
+
 
 /* Yui part */
 .item-name-y{
