@@ -30,3 +30,25 @@
 }
 
 /*  above are the testing version  */
+
+
+
+/* victor part */
+item-name-v h3{
+  text-align: center;
+  font-size: larger;
+  grid-row: 3 / span 1;
+  grid-column: 1 / 4;
+}
+
+.item-pic-v{
+  width: 250px;
+  height: auto;
+  grid-row: 3 / span 1 ;
+  grid-column: 4 / span 4;
+}
+
+.item-info-v{
+  text-align: center;
+  width: 300px;
+}
