@@ -8,7 +8,7 @@
   width: 80%;
   height: 100vh;
   margin: 0 auto;
-  background-color: aquamarine;
+  background-color: white;
   border: 5px solid red;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -30,3 +30,13 @@
 }
 
 /*  above are the testing version  */
+
+
+
+
+/* victor version */
+
+.item-pic-v{
+  width: 200px;
+  height: auto;
+}
